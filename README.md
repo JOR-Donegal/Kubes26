@@ -1,5 +1,2 @@
-# MKTemplate
-Template for new teaching notes
+# Kubernetes
 
-1. Edit mkdocs to name the project and add a URL
-2. 
