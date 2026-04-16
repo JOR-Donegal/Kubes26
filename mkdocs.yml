@@ -15,7 +15,7 @@ theme:
   palette:
       # Light Mode
     - scheme: default
-      primary: green
+      primary: orange
       accent: red
 
 markdown_extensions:
